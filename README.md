@@ -22,4 +22,4 @@ The project is built from the JSON API from www.sauto.cz.
 
 ## Contributing 
 If you want to work on this application we’d love your pull requests or raise a tickets on GitHub! When pulling requests or opening up a ticket, please make sure it describes the problem or feature request fully.
-
+ 
